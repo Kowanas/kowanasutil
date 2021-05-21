@@ -1,1 +1,1 @@
-kowanas uutil
+kowanas util
